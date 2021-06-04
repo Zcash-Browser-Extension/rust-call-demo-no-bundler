@@ -1,0 +1,9 @@
+/Users/elliotblanchard/Development/code/Zcash-Browser-Extension/without-a-bundler_01_to-build/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-871c361d22161507.rmeta: /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/lib.rs /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/queue.rs /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/task/singlethread.rs
+
+/Users/elliotblanchard/Development/code/Zcash-Browser-Extension/without-a-bundler_01_to-build/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-871c361d22161507.rlib: /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/lib.rs /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/queue.rs /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/task/singlethread.rs
+
+/Users/elliotblanchard/Development/code/Zcash-Browser-Extension/without-a-bundler_01_to-build/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-871c361d22161507.d: /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/lib.rs /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/queue.rs /Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/task/singlethread.rs
+
+/Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/lib.rs:
+/Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/queue.rs:
+/Users/elliotblanchard/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-futures-0.4.24/src/task/singlethread.rs:
